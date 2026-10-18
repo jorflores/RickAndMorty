@@ -1,7 +1,6 @@
-package com.example.rickandmorty.viewmodel
+package com.example.rickandmorty.data
 
 import com.example.rickandmorty.model.Personaje
-import com.example.rickandmorty.model.PersonajesResponse
 import com.example.rickandmorty.network.RetrofitClient
 import com.example.rickandmorty.network.RickAndMortyApi
 
